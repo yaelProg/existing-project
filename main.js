@@ -1,4 +1,4 @@
 alert ("From main js")
 
 const str = "thank you"
-const b = 333;
+const b = 'bla bla bla';
